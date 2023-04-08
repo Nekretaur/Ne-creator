@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Nexus-Dino
-- 👀 I’m interested in Webdev
-- 🌱 I’m currently learning NextJS
+- 👋 Hi, I’m @Nekreataur
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Next.JS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: DM me at NekreAstro#2756
 
 <!---
 Ne-creator/Ne-creator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
