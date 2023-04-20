@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nekreataur
+- 👋 Hi, I’m @Nekretaur
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Next.JS
 - 💞️ I’m looking to collaborate on ...
