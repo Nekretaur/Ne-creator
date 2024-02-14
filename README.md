@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nekretaur
+- 👋 Hi, I’m @Spinoscythe
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unreal Engine
 - 💞️ I’m looking to collaborate on ...
